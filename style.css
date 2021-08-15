@@ -1,0 +1,31 @@
+body {
+    background:linear-gradient(#000000 0%, #b8860b 100%);
+    color:darkgoldenrod; 
+}
+
+#he {
+    height:6vmin;
+    width:5in;
+    background-color: lightslategrey;
+    color: lightskyblue;
+    border-style: groove;
+    border-color: lightsteelblue;
+    border-width: 1vmin;
+}
+b {
+    color: darkgoldenrod;
+}
+#object {
+color: darkgray;
+}
+
+#webpreview,#Hacking {
+height:200px;
+width:250px;
+border: 2px;
+border-style: dotted;
+}
+
+#accuracy {
+    color: darkgray;
+    }
